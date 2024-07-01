@@ -10,7 +10,7 @@ const doctorRoute = require("./routes/doctorRoute");
 
 
 app.use(cors({
-    origin: 'https://6683021e1d543f82306c4c97--silly-cupcake-53f9be.netlify.app/',
+    origin: 'https://668306f0c085f887d7172df1--lustrous-nougat-9500ce.netlify.app/',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
 }));
